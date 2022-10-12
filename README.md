@@ -5,3 +5,5 @@ The click_bot.py is a clicking Bot written in Python, which can used to swipe ri
 
 Changes and feedback are welcome!!
 Enjoy your swipes :)
+
+The unmatch.py is another similar bot created to unmatch your matches if the list is very long. Just start the program and relax.
